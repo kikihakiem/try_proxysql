@@ -1,0 +1,2 @@
+INSERT INTO products (company_id, sku, name, category) VALUES (2, "lorem", "Not so cool product", "A popular category");
+INSERT INTO products (company_id, sku, name, category) VALUES (2, "ipsum", "A bit cool product", "A popular category");
